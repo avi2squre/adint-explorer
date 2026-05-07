@@ -1,0 +1,29 @@
+# Data files (belong to Zhang lab; users download from their repo)
+*.tsv
+*.csv
+Neo4j_data/
+ADInt_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+ADInt_Explorer_Presentation.pptx
+*.log
