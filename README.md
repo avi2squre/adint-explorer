@@ -1,6 +1,6 @@
 # ADInt Explorer
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/adint-explorer/blob/main/notebooks/ADInt_Explorer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/avi2squre/adint-explorer/blob/main/notebooks/ADInt_Explorer.ipynb)
 
 An interactive visualization dashboard for the **ADInt knowledge graph** : the Alzheimer's drug-repurposing knowledge graph from Xiao et al., *Scientific Reports* 2024. Built as the final project for HINF 5620 at the University of Minnesota.
 
